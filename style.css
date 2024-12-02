@@ -116,8 +116,8 @@ button {
 
 .msg {
   padding-left: 1rem;
-  color: rgb(239, 234, 82);
-  font-size: 1rem;
+  color: rgb(255, 255, 255);
+  font-size: 1.5rem;
 }
 
 /* Styling the amount input box */
@@ -154,7 +154,7 @@ button {
 
   button {
     width: 20vh;
-    font-size: 17px;
+    font-size: 3vh;
   }
 
   form button {
